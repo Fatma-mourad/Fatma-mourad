@@ -1,8 +1,6 @@
 # Hi, I'm Fatma 👋
 
-I'm a Product Designer focused on building clear, intuitive digital products, with a growing specialization in **Fintech**.
-
-I enjoy turning complex problems, financial data, and user needs into simple and thoughtful product experiences.
+I'm a Product Designer focused on building clear, intuitive digital products, with a growing specialization in **Fintech** and Ai-Powered Products.
 
 ### What I'm working on
 
@@ -22,7 +20,7 @@ I enjoy turning complex problems, financial data, and user needs into simple and
 
 ### Connect with me
 
-🌐 **Portfolio:** [Your Portfolio](https://fatma-mourad.vercel.app/)
+🌐 **Portfolio:** [My Portfolio](https://fatma-mourad.vercel.app/)
 
 🎨 **Behance:** [My Behance](https://www.behance.net/fatmamourad263)
 
