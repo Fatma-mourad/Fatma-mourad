@@ -20,6 +20,14 @@ I enjoy turning complex problems, financial data, and user needs into simple and
 * Financial products and trading platforms
 * English communication for product/design
 
+### Connect with me
+
+🌐 **Portfolio:** [Your Portfolio](https://fatma-mourad.vercel.app/)
+
+🎨 **Behance:** [My Behance](https://www.behance.net/fatmamourad263)
+
+💼 **LinkedIn:** [My LinkedIn](www.linkedin.com/in/fatma-mourad-6074a93b0)
+
 
 
 <!--
